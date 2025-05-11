@@ -1,4 +1,4 @@
-# ATM Project - Simple Calculator
+# Simple Calculator
 
 This project is a simple calculator built with HTML, CSS, and JavaScript. It simulates a basic ATM interface where users can perform arithmetic calculations like addition, subtraction, multiplication, and division. It is a great example of how to use form elements and JavaScript functions to handle user input and calculations.
 
